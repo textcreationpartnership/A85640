@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by Prince Charles his ships; upon the north coast of England, with the particulars thereof, and the proceedings of the rear-admirall with fifty pieces of ordnance. Also, a new rising in Lancashire, and proclaiming of His Highnesse King of Great Prittain [sic], and Ireland, at Newark upon Trent, and in the north of England; and a bloudy fight thereupon. Likevvise, the declaration of the Coruish-men [sic], concerning Prince Charles; and the King of Denmark's Proclamation against the Parliament of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85640</idno>
+            <idno type="STC">Wing G1779</idno>
+            <idno type="STC">Thomason E564_8</idno>
+            <idno type="STC">ESTC R206099</idno>
+            <idno type="EEBO-CITATION">99865284</idno>
+            <idno type="PROQUEST">99865284</idno>
+            <idno type="VID">165262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165262)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E564[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by Prince Charles his ships; upon the north coast of England, with the particulars thereof, and the proceedings of the rear-admirall with fifty pieces of ordnance. Also, a new rising in Lancashire, and proclaiming of His Highnesse King of Great Prittain [sic], and Ireland, at Newark upon Trent, and in the north of England; and a bloudy fight thereupon. Likevvise, the declaration of the Coruish-men [sic], concerning Prince Charles; and the King of Denmark's Proclamation against the Parliament of England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R. Williamson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165262:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORY <hi>OBTAINED BY</hi> Prince Charles <hi>HIS SHIPS;</hi> Upon the North Coaſt of <hi>England,</hi> with the particulars thereof, and the proceedings of the Rear-admirall with fifty Pieces of Ordnance.</p>
+            <p>
+               <hi>ALSO,</hi> A new Riſing in <hi>Lancaſhire,</hi> and proclaiming of His High<g ref="char:EOLhyphen"/>neſſe <hi>King</hi> of Great Prittain, and <hi>Ireland,</hi> at Newark upon <hi>Trent,</hi> and in the North of <hi>England;</hi> and a bloudy fight thereupon.</p>
+            <p>
+               <hi>LIKEVVISE,</hi> The Declaration of the Corniſh-men, concerning Prince <hi>Charles;</hi> and the <hi>King</hi> of <hi>Denmark</hi>'s Proclamation againſt the Parliament of <hi>England.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <figDesc>angels bear the royal blazon or coat of arms of Charles I</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>R. Williamſon,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:165262:2"/>
+            <pb n="1" facs="tcp:165262:2"/>
+            <head>A RISING IN Lancaſhire for <hi>Charles</hi> the ſecond, the proclaiming of him King in the North of England, and a bloudy fight thereupon.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Royall party begins to declare very high for the declared King of Scots, againſt the preſent Au<g ref="char:EOLhyphen"/>thority of this Nation, and inſulteth very much over the wellaffected party, ſaying, That <hi>Charles</hi> ſhall be King, and woe be unto them that ſayes againſt it; and upon Fri<g ref="char:EOLhyphen"/>day laſt ſeverall Gentlemen (extraordinary well mounted and gallantly armed) of quality came to Mancheſter, and there proclaimed Prince <hi>Charles</hi> (eldeſt Son to <hi>Charles</hi> the firſt) King of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> which done, they departed the town without interruption or moleſtati<g ref="char:EOLhyphen"/>on; and from thence went to Wiggin, where they cauſed
+<pb n="2" facs="tcp:165262:3"/>the like to be proclaimed as formerly; and from thence they went to Kendall in Weſtmerland, where they met with ſome oppoſition at the proclaiming thereof; the man<g ref="char:EOLhyphen"/>ner thus: A party of the Parliaments Souldiers having re<g ref="char:EOLhyphen"/>ceived information of their deſign, prepared to receive them, and even in the nick of time came in upon them, diſ<g ref="char:EOLhyphen"/>puted the place with ſeverall Vollies, and at laſt the Royall party ſeeing themſelves overpowred in number, betooke themſelves to a retreat, and by the ſwiftneſſe of their horſes made an honourable retreat, and eſcaped, with the loſſe of two men.</p>
+            <p>One Col. Walton is ſaid to be the Commander in chiefe of the Royall party, and leaves no means unaſſayed for the advancing of his young Maſters Cauſe.</p>
+            <p>The Parliament of Scotland ſeem to be exceedingly diſ<g ref="char:EOLhyphen"/>contented at the tranſaction of affairs in England, and at the preſent proceedings of their young King (as they ſay) and have ſent a Meſſage to the queen of Sweden, with a large Narative of what they did joyntly with the Parliament of England, where they fell off, how they deteſt their late pro<g ref="char:EOLhyphen"/>ceedings, in reference to the executing of their late Sove<g ref="char:EOLhyphen"/>raign Lord the King, how their young King is ſeduc'd by evill Councell, and from thence hath not given their Com<g ref="char:EOLhyphen"/>miſſioners ſatisfaction neceſſary for his own and the King<g ref="char:EOLhyphen"/>domes Weal, deſiring her Majeſty to ſend an Embaſſie unto him, to perſwade him to a Condeſcenſion, and ſpeedy A<g ref="char:EOLhyphen"/>greement; <hi>but this ſeems a myſtery to many, divers conceiving it to be one of</hi> Jockies <hi>new Riddles.</hi>
+            </p>
+            <p>For it is frequently ſaid, that the Articles of Agreement are already concluded of, and that they begin to caſt this Miſt, only to obſcure the eye-ſight of the Engliſh until they have brought to maturity their deſign in hand, for the rai<g ref="char:EOLhyphen"/>ſing of 15000 Horſe and Foot to joyn with the 5000 alrea<g ref="char:EOLhyphen"/>dy
+<pb n="3" facs="tcp:165262:3"/>in Arms, which they pretend to be for the ſafety of that kingdom againſt forraign Invaſion. Only Gen. Leſley denies the Generalſhip, the Marq. of Argyle its conceived will be choſen Commander in chief.</p>
+            <p>His Excellency Generall Leſley being deſired to deliver up the ſtrong Caſtle of Edenburgh, returned anſwer, That he was reſolved to keepe it for the ſucceſſion of thoſe who had entruſted him, meaning the late <hi>King of Great Brittain, Charles the first.</hi>
+            </p>
+            <p>The Parliament are very private in their debates, and (ſay ſome) are reſolved to ſhake the foundation of Hereſie.</p>
+            <p>Lievtenant Collonel Hobſon is come to Edenburgh, his buſineſſe is variouſly ſpoken, ſome whiſper that he deſires paſsage for ſome to go for Ireland, others to make way for ſome farther overture from Parl of England, what ever it is he is looked upon with a jealous eye.</p>
+            <p>From the Iſle of Man our Intelligence ſaith, That Sir <hi>Lewis Dives,</hi> and many other Engliſh Gallants, have made great preparations in that Iſland againſt the Parliament of England, and are reſolved for Ireland, to aſſiſt the Marqueſſe of Ormond, and ſtrengthen the ſiege at Dublin; from whence it is ſaid, that the Parliaments party is reduced to Dublin, Dredah, Dundale, Trim, and London-Derry, the firſt &amp; laſt being beſieged; by Ormonds coming up to Dublin he hath got the greateſt part of five Counties from Col. Jones, which afforded him many thouſand pounds contribution.</p>
+            <p>We hear that Gen. <hi>Oneal</hi> is united with <hi>Ormond,</hi> and hath ſtrengthned his Camp with 4000 Foot, the E. of <hi>Clanrickard</hi> and Col. <hi>Monro</hi> is expected there with another Brigade, by which means they will be both potent and powerfull, the Army amounting to above 20000 Horſe and Foot.</p>
+            <closer>
+               <dateline>
+                  <hi>Lancaſter</hi> 
+                  <date>7. July, 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="4" facs="tcp:165262:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Marq. of <hi>Ormond,</hi> and the L. <hi>Inchiquin</hi> with 14000 Horſe and Foot, have intrenched themſelves (in many places) within Muſquet ſhot of the Walls, and by their ſtrong allarums keeps us in continuall action: the laſt night their Pioneers wrought exceeding hard, and raiſed an half Moon within musket ſhot of the North Port, where was placed about 200 musketiers, and four pieces of Ord<g ref="char:EOLhyphen"/>nance; it was contrived very artificially and ſtrong, with a running Trench from their frontier incampings: this mor<g ref="char:EOLhyphen"/>ing we ſallyed out upon them, with a reſolution to beat hem off from the ſaid Fort; but finding too much oppoſi<g ref="char:EOLhyphen"/>ion retreated to our Redout, which was within Piſtoll ſhot hereof; about 4 of the clock ſeverall parties of horſe and oot were drawn forth on both ſides, who engaged each o<g ref="char:EOLhyphen"/>ther, and after a ſharp conflict diſputed with great gallantry the enemy retreated, and having a Reſerve ready at hand our men durſt not embrace the purſuit, but returned Victors with 7 priſoners, 9 horſes, and left dead and wounded upon the place about 15 with the loſſe of 9 men, which the ene<g ref="char:EOLhyphen"/>my in the night time ſet off and buryed.</p>
+            <p>In one of our former Sallies, Capt. <hi>Glyn</hi> with a party of 30 horſe fell upon a deſperate party of the Beſiegers, and after a ſharp diſpute took</p>
+            <list>
+               <head>priſoners</head>
+               <item>
+                  <hi>Lieut. Colonell Dungan.</hi>
+               </item>
+               <item>
+                  <hi>Major Williams.</hi>
+               </item>
+               <item>
+                  <hi>Captain O Brian.</hi>
+               </item>
+               <item>
+                  <hi>Captain Talbot.</hi>
+               </item>
+               <item>
+                  <hi>Lieutenant Ogleby.</hi>
+               </item>
+               <item>
+                  <hi>Cornet Bembrick.</hi>
+               </item>
+               <item>
+                  <hi>And about</hi> 12 Troopers.</item>
+            </list>
+            <list>
+               <head>killed</head>
+               <item>
+                  <hi>Major Dungan,</hi> brother to the aforeſaid Lieu. Col. <hi>Dungan.</hi>
+               </item>
+               <item>
+                  <hi>Captain Willkin ſon.</hi>
+               </item>
+               <item>
+                  <hi>Quartermaster Mackart.</hi>
+               </item>
+               <item>
+                  <hi>Corporall Pemerton.</hi>
+               </item>
+               <item>
+                  <hi>And about</hi> 7 <hi>men.</hi>
+               </item>
+            </list>
+            <pb n="5" facs="tcp:165262:4"/>
+            <p>We are ſeldome out of action, and our renowned Gover<g ref="char:EOLhyphen"/>nour is infinitely tyred out, having not been in his bed theſe ten nights, and moſt part of the day is viewing the enemy, or repairing our Works and Fortifications, and planting pieces round the Line: the Iriſh Officers have made choice of a great Epiſcopal Biſhop to be their chief Engineer, who acts and ſtudies very politikely both ſpiritually and tem<g ref="char:EOLhyphen"/>porally.</p>
+            <p>Our condition being dangerous, cauſeth ſadneſſe unto us, e<g ref="char:EOLhyphen"/>evry day the enemy being ſtrong, and our men many of them perſidious, moſt diſhonourable, betraying their truſt, the Lord <hi>Moon</hi> with a gallant troop of horſe, is gone to the enemy, who upon a ſalley forth, pretended to engage againſt them, but when he was within piſtoll ſhot, faced about, and fell upon a party of our own horſe, a troop of Sir <hi>Thomas Armſtrongs</hi> run away alſo, and Col. <hi>Yeamonds</hi> troop moul<g ref="char:EOLhyphen"/>ter away, and deſert us extreamly; the enemy hath beſieged what Gariſons we have not ſlighted, Drogedan is in great danger of loſing, many others will be loſt, for we cannot flie from this City to help them without better ſtore of Force for their relief. Col. <hi>Trevor</hi> hath likewiſe deſerted us, and is gone to the enemy, where he entred into proteſtation to the Marqueſſe, declaring, <hi>That he would uſe all the intereſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> poſſible he could, for the calling away of his Regiment, and the he was aſſured of their coming, with many othhrs alſo,</hi> the ene<g ref="char:EOLhyphen"/>my continues drawing nearer this place, hindering all Mar<g ref="char:EOLhyphen"/>kets, ſo that we are brought very low, every thing being ex<g ref="char:EOLhyphen"/>traordinary dear, and the Inhabitants ſo taxed for ſupport of the Souldiers, as that they will be undone. God in mercy look upon us, and help us.</p>
+            <closer>
+               <dateline>
+                  <hi>From bleeding Dublin</hi> 
+                  <date>
+                     <hi>the fourth of July, 1649.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="6" facs="tcp:165262:5"/>
+            <opener>
+               <dateline>
+                  <hi>Lieceſter</hi> 
+                  <date>9 July, 1649.</date>
+               </dateline>
+            </opener>
+            <p>Sir, We hear that the Royall par<g ref="char:EOLhyphen"/>ty about Newark upon Trent hath lately proclaimed Prince <hi>Charles</hi> King of Great Brittain, France and Ireland, at the Marker place, and give out very high language againſt the preſent Authority of this Nation, ſaying, that they will have a King, and that they neither can nor will lye any longer un<g ref="char:EOLhyphen"/>der the inſupportable burthen of curelty, tyranny and op<g ref="char:EOLhyphen"/>preſſion; but its hoped care will be taken for the allaying of the diſtempers of theſe troubled ſpirits, &amp; ſpeedy courſe taken for the preventing of the like for the future.</p>
+            <p>By Letters from the Weſt it is ſaid, that the adverſe party in Cornwall, have lately had a meeting neer Truro, where they declared their Reſolutions for the proclaiming of Pr. Charles King, and to uſe all poſſible meanes for his reſtau<g ref="char:EOLhyphen"/>ration; but its believed, that if they perſiſt on in this treaſo<g ref="char:EOLhyphen"/>nable deſign, as the Parliament of England hath declared it, they will ſuddenly receive a Corniſh hug.</p>
+            <p>We likewiſe hear, that a Squadron of the Princes ſhips hath fallen on the Northern Fleet, and that they have taken about 30 ſhips laden with comodities for London, and diſ<g ref="char:EOLhyphen"/>pierſed the Convoy: this Victory (it's ſaid) fell to Capt. Plunket (Rear Admirall to the Prince) who hath a gallant ſhip carrying 50 pieces of Ordnance, called <hi>The Mirrour of Dunkirk,</hi> formerly the King of Spain's Vice-admirall.</p>
+            <p>The K. of Denmark hath cauſed to be proclaimed through all his Dominions, <hi>That whoſoever will take up Arms againſt the Parliament of England, they ſhall have free egreſſe and re<g ref="char:EOLhyphen"/>greſse into his Harbours, and may freely ſecure within his Do<g ref="char:EOLhyphen"/>minions any prize made vpon the Engliſh ſhips, belonging to the Parliament.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <closer>
+               <signed>T. J.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
